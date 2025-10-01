@@ -22,9 +22,9 @@ https://github.com/user-attachments/assets/f42c3bc0-ba50-40e3-a0c8-b826ce2dc7b0
 
 ## Discord
 
-Username: x_o_x_o_x_o_x_o_x_o_x_o_x_o_x_o
-User ID : x_o_x_o_x_o_x_o_x_o_x_o_x_o_x_o
+- Username: x_o_x_o_x_o_x_o_x_o_x_o_x_o_x_o
+- User ID : 1243469277336436758
 
 ## Roblox
 
-Username: skjnned
+- Username: skjnned
