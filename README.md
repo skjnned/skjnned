@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there // Ive been scripting and making ui for about 2 years.
 
 - Looking for commisions..
 
