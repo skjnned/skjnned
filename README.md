@@ -2,7 +2,7 @@
 
 - 16 years old.
 - I write clean & optimized modular code.
-- Can create matchmaking systems, serverlist systems, round systems, goal detection systems, hubs and many more.
+- Can create matchmaking systems, serverlist systems, round systems, goal detection systems, hubs, optimized pet follow systems and many more.
 - Great with tweening UI.
 - Great with datastores.
 - Looking for commisions..
